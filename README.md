@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Krishna3374.
 - 👀 I’m interested in "Artificial Intelligence / Machine Learning".
 - 🌱 I’m currently learning "Github".
+- 📫 How to reach me "8500921321".
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->
-- 📫 How to reach me "8500921321".
 
 <!---
 Krishna3374/Krishna3374 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
